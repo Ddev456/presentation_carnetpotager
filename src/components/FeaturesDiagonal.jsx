@@ -42,7 +42,8 @@ export const FeaturesDiagonal = () => {
               Vous pouvez aussi choisir de laisser l'assistant générer votre calendrier personnalisé.
             </p>
             <a
-              href="#"
+              target="_blank"
+              href="https://app.carnetpotager.fr/"
               className="w-[210px] h-12 custom-button-colored mr-10 "
             >
               Commencer
