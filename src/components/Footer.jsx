@@ -20,7 +20,7 @@ export const Footer = () => {
                 Aucune donnée n'est sauvegardée. 
                 Retrouvez l'application
                 <a
-                  href="https://bootstrapious.com/p/bootstrap-4-dark-admin"
+                  href="https://app.carnetpotager.fr/"
                   target="_blank"
                   className="text-gray-100 ml-1.5 "
                   aria-label="DarkAdmin"
