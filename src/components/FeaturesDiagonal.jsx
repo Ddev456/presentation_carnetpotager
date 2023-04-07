@@ -41,12 +41,12 @@ export const FeaturesDiagonal = () => {
               Créez vos évènements telles que le semis de plantes potagères, la plantation. Prévoyez les récoltes et organisez-vous avec le calendrier.
               Vous pouvez aussi choisir de laisser l'assistant générer votre calendrier personnalisé.
             </p>
-            <div
+            <a
+              href="#"
               className="w-[210px] h-12 custom-button-colored mr-10 "
-              onClick={() => setIsModalOpen(true)}
             >
               Commencer
-            </div>
+            </a>
           </div>
           <div className="w-4/5 lg:w-1/2 lg:pl-16 flex justify-center mx-auto pt-16 lg:pt-0">
             <img
