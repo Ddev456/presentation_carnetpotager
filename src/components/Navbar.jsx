@@ -94,39 +94,20 @@ export const Navbar = () => {
               <a
                 className="navbar-link"
                 href="#home"
-                onClick={() => setIsOpen(false)}
                 aria-label="Home"
               >
-                Home
+                Accueil
               </a>
               <a
                 className="navbar-link"
                 href="#features"
-                onClick={() => setIsOpen(false)}
                 aria-label="sFeatures"
               >
-                Features
-              </a>
-              <a
-                className="navbar-link"
-                href="#pricing"
-                onClick={() => setIsOpen(false)}
-                aria-label="Pricing"
-              >
-                Pricing
-              </a>
-              <a
-                className="navbar-link"
-                href="#feedback"
-                onClick={() => setIsOpen(false)}
-                aria-label="Feedback"
-              >
-                Feedback
+                Fonctionnalités
               </a>
               <a
                 className="navbar-link"
                 href="#FAQ"
-                onClick={() => setIsOpen(false)}
                 aria-label="FAQ"
               >
                 FAQ
