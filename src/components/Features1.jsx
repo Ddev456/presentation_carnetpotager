@@ -48,13 +48,13 @@ export const Features1 = () => {
           </div>
           <div className="w-3/4 mx-auto lg:w-1/2 flex flex-wrap lg:-mx-4 sm:pr-8 lg:pt-10 justify-center lg:pl-4 xl:px-8">
             <div className="mb-8 lg:mb-0 w-full px-2 lg:px-0">
-              <div className="mb-4 py-3 pl-3 pr-2 rounded">
+              {/* <div className="mb-4 py-3 pl-3 pr-2 rounded">
                 <img
                   src={feature1}
                   alt="f1"
                   className="rounded-xl  custom-border-gray mx-auto sm:mx-unset"
                 />
-              </div>
+              </div> */}
               <div className="py-3 pl-3 pr-2 rounded ">
                 <img
                   src={feature2}

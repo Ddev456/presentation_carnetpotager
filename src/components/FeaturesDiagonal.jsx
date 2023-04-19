@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 
 import { InvitationModal } from "./InvitationModal";
-import featuresdiagonal from "../assets/images/calendar__background.png";
+import featuresdiagonal from "../assets/images/calendar.png";
 
 export const FeaturesDiagonal = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -35,10 +35,10 @@ export const FeaturesDiagonal = () => {
               Organiser et prévoir
             </span>
             <h2 className="mt-10 mb-8 text-4xl lg:text-5xl custom-block-big-title">
-              Organisez ses travaux et les dates de semis/plantations avec le calendrier
+              Organisez vos travaux au jardin et plannifiez les dates de semis/plantations/... avec le calendrier
             </h2>
             <p className="mb-16 text-customGrayText leading-loose">
-              Créez vos évènements telles que le semis de plantes potagères, la plantation. Prévoyez les récoltes et organisez-vous avec le calendrier.
+              Créez vos évènements tels que le semis de plantes potagères, la plantation. Prévoyez les récoltes et organisez-vous avec le calendrier.
               Vous pouvez aussi choisir de laisser l'assistant générer votre calendrier personnalisé.
             </p>
             <a
